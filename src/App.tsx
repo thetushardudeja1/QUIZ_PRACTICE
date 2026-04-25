@@ -34,6 +34,7 @@ export default function App() {
   const [userAnswers, setUserAnswers] = useState<(number | null)[]>([]);
   const [score, setScore] = useState(0);
   const [selectedWeek, setSelectedWeek] = useState<string | null>(null);
+  const [pendingIncorrect, setPendingIncorrect] = useState<Question[]>([]);
 
   const startQuiz = (weekKey: string | 'all') => {
     let questions: Question[] = [];
@@ -71,6 +72,7 @@ export default function App() {
     });
 
     setCurrentQuestions(shuffledQuestions);
+    setPendingIncorrect([]);
     setCurrentIndex(0);
     setUserAnswers(new Array(shuffledQuestions.length).fill(null));
     setScore(0);
@@ -86,11 +88,33 @@ export default function App() {
 
     if (optionIndex === currentQuestions[currentIndex].correct) {
       setScore(prev => prev + 1);
+    } else {
+      setPendingIncorrect(prev => [...prev, currentQuestions[currentIndex]]);
     }
   };
 
   const nextQuestion = () => {
     if (currentIndex < currentQuestions.length - 1) {
+      setCurrentIndex(prev => prev + 1);
+    } else if (pendingIncorrect.length > 0) {
+      // Append incorrect questions for another round
+      const nextBatch = pendingIncorrect.map(q => {
+        // Reshuffle options for the repeat to ensure learning
+        const originalOptions = [...q.options];
+        const correctOptionText = originalOptions[q.correct];
+        const shuffledOptions = shuffleArray(originalOptions);
+        const newCorrectIndex = shuffledOptions.indexOf(correctOptionText);
+        
+        return {
+          ...q,
+          options: shuffledOptions,
+          correct: newCorrectIndex
+        };
+      });
+
+      setCurrentQuestions(prev => [...prev, ...nextBatch]);
+      setUserAnswers(prev => [...prev, ...new Array(nextBatch.length).fill(null)]);
+      setPendingIncorrect([]);
       setCurrentIndex(prev => prev + 1);
     } else {
       setAppState('RESULT');
