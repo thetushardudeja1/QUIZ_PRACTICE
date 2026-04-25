@@ -1224,5 +1224,117 @@ export const quizData: QuizData = {
       ],
       correct: 1
     }
+  ],
+  tricky: [
+    {
+      question: "Read the following statements regarding ‘economics of a spiritualised society’ and choose the correct option:\n\nStatement I: It intends to provide everyone with the pleasure of work in accordance with their nature and supports inner development.\n\nStatement II: According to Aurobindo, the prime objective of that society is to ensure a stable machinery of production for a longer time.",
+      options: [
+        "Only Statement-II is correct",
+        "Only Statement-I is correct",
+        "Both are correct",
+        "Neither is correct"
+      ],
+      correct: 1
+    },
+    {
+      question: "Read the following two statements and choose the correct option from below-\nStatement-I: Vivekananda believed in the Varnashrama system.\nStatement-II: Vivekananda criticised the Brahmanical practice of excluding the Shudras from accessing Vedic knowledge.",
+      options: [
+        "Only Statement I is correct.",
+        "Only Statement II is correct.",
+        "Both Statements I and II are correct.",
+        "Neither Statement I nor II is correct."
+      ],
+      correct: 2
+    },
+    {
+      question: "Read the following two statements and choose the correct option from below Statement I: Mahatma Gandhi was sceptical of the uncontrolled madness behind the machinery. In his view, the usage of machinery should be guided by moral considerations regarding how men should conduct their lives. Statement II: Mahatma Gandhi also argued that the increasing use of technology and machinery could result in massive unemployment.",
+      options: [
+        "Only Statement I is correct.",
+        "Only Statement II is correct.",
+        "Both Statement I & II are correct.",
+        "Neither statement I nor II is correct."
+      ],
+      correct: 2
+    },
+    {
+      question: "Read the following two statements and choose the correct option from below Statement I- Muhammad Iqbal tried to find a spiritual expression of anticolonialism in religion. Statement II- Through religion, Iqbal searched for an alternate path of development distinct from the West.",
+      options: [
+        "Only Statement-I is correct.",
+        "Only Statement II is correct.",
+        "Both Statements -I &II are correct.",
+        "Neither Statement-I nor Statement II is correct."
+      ],
+      correct: 2
+    },
+    {
+      question: "Read the following two statements and choose the correct option from below-\nI. Savarkar did not negate the right of minorities to co-exist, but he made it conditional on the ground of their acceptance of Hindu dominance.\nII. Savarkar supported preferential treatment to those minorities who accepted his condition of accepting the domination of Hindus.",
+      options: [
+        "Only the statement I) is correct.",
+        "Only the statement II) is correct.",
+        "Both (I &II) statements are correct.",
+        "Both (I & II) statements are incorrect."
+      ],
+      correct: 0
+    },
+    {
+      question: "Read the following two statements and choose the correct option from below-\nStatement-I: Nehru had a broader understanding of democracy, emphasizing its social and economic dimensions.\nStatement-II: Nehru also held that it is only with the presence of equality that democracy can be sustained.",
+      options: [
+        "Only Statement-I is correct.",
+        "Only Statement-II is correct.",
+        "Both Statement- I & II are correct.",
+        "Neither Statement-I nor Statement-II is correct."
+      ],
+      correct: 2
+    },
+    {
+      question: "Read the following two statements on Gandhi and Nehru's vision of state and economic development, and choose the correct option from below-\nStatement-I: Gandhi and Nehru were unanimous on their idea of the state as a soulless machine and stated that it could hardly achieve any substantive development for the people.\nStatement-II: While Gandhi supported decentralization and small-scale industries, Nehru, on the other hand, was an advocate of centralized and planned economic development.",
+      options: [
+        "Only Statement-I is correct.",
+        "Only Statement-II is correct.",
+        "Both Statement- I & II are correct.",
+        "Neither Statement I nor Statement II is correct."
+      ],
+      correct: 1
+    },
+    {
+      question: "Read the following two statements and choose the correct option from below-\nStatement-I: Ambedkar argued that caste was the major hindrance towards the formation of a united political community in India.\nStatement-II: The caste system, Ambedkar argued, maintained its hierarchies primarily by voluntary submissions of people characterised by ‘an ascending scale of reverence and a descending scale of contempt’.",
+      options: [
+        "Only Statement I is correct.",
+        "Only Statement II is correct.",
+        "Both Statements I and II are correct.",
+        "Neither Statement I nor Statement-II is correct."
+      ],
+      correct: 2
+    },
+    {
+      question: "The three distinct ways Ambedkar offered to safeguard democracy in India include:\nI. Upholding constitutional methods of politics.\nII. Cautioning against hero-worshipping.\nIII. Striving equally for social democracy alongside political democracy.\nIV. Promoting revolutionary changes through non-violent means.",
+      options: [
+        "I, II, and IV only",
+        "II, III, and IV only",
+        "I, II, and III only",
+        "I, III, and IV only"
+      ],
+      correct: 2
+    },
+    {
+      question: "Read the following two statements and choose the correct option from below-\n\nStatement-I: Ramabai argued that Indian women had a better status in the past in comparison to her contemporary degradation.\nStatement II: Ramabai explains this degradation in the status of women in terms of the degradation of the Hindu nation.",
+      options: [
+        "Only Statement I is correct.",
+        "Only Statement II is correct.",
+        "Both Statement I & II are correct.",
+        "Neither Statement-I nor Statement-II is correct."
+      ],
+      correct: 2
+    },
+    {
+      question: "Read the following two statements and choose the correct option from below-\n\nStatement I: Lohia was a prominent leader of the ‘Angrezi Hatao Movement’, and he advocated the replacement of English with the Hindi as the lingua franca of India.\n\nStatement II: Lohia opposed English not because it was a foreign language but because it was, in the Indian context, a vehicle of inequality and social exclusion.",
+      options: [
+        "Only Statement I is correct.",
+        "Only Statement II is correct.",
+        "Both Statements I & II are correct.",
+        "Neither Statement I nor Statement II is correct."
+      ],
+      correct: 2
+    }
   ]
 };

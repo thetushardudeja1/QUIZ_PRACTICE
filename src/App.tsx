@@ -36,7 +36,7 @@ export default function App() {
   const [selectedWeek, setSelectedWeek] = useState<string | null>(null);
   const [pendingIncorrect, setPendingIncorrect] = useState<Question[]>([]);
 
-  const startQuiz = (weekKey: string | 'all') => {
+  const startQuiz = (weekKey: string | 'all' | 'tricky') => {
     let questions: Question[] = [];
     const activeData = quizMode === 'PRACTICE' ? quizData : pyqData;
     
@@ -46,6 +46,9 @@ export default function App() {
         questions = [...questions, ...weekQs];
       });
       setSelectedWeek(`All ${quizMode === 'PRACTICE' ? 'Practice' : 'PYQ'} Weeks`);
+    } else if (weekKey === 'tricky') {
+      questions = [...(quizData['tricky'] || [])];
+      setSelectedWeek("Tricky Statement Questions");
     } else {
       questions = [...(activeData[weekKey] || [])];
       setSelectedWeek(`${quizMode === 'PRACTICE' ? 'Practice' : 'PYQ'} - Week ${weekKey.replace('week', '')}`);
@@ -136,6 +139,8 @@ export default function App() {
   const retryQuiz = () => {
     if (selectedWeek?.includes('All')) {
       startQuiz('all');
+    } else if (selectedWeek === "Tricky Statement Questions") {
+      startQuiz('tricky');
     } else if (selectedWeek) {
       const match = selectedWeek.match(/Week (\d+)/);
       if (match) {
@@ -243,13 +248,22 @@ export default function App() {
               ))}
             </div>
 
-            <button
-              onClick={() => startQuiz('all')}
-              className="w-full group relative overflow-hidden bg-white text-black py-4 md:py-8 rounded-[1rem] md:rounded-[2.5rem] text-lg md:text-3xl font-bold shadow-2xl hover:bg-[#f5f5f7] active:scale-[0.995] transition-all flex items-center justify-center gap-2 md:gap-5 mb-12 md:mb-32"
-            >
-              <LayoutGrid className="w-5 h-5 md:w-10 md:h-10" />
-              Attempt All Weeks
-            </button>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-3 md:gap-6 mb-12">
+              <button
+                onClick={() => startQuiz('tricky')}
+                className="group relative overflow-hidden bg-[#1d1d1f]/50 border border-white/[0.1] text-white py-4 md:py-8 rounded-[1rem] md:rounded-[2.5rem] text-lg md:text-3xl font-bold shadow-2xl hover:bg-[#1d1d1f] active:scale-[0.995] transition-all flex items-center justify-center gap-2 md:gap-5"
+              >
+                <LayoutGrid className="w-5 h-5 md:w-10 md:h-10 text-rose-500" />
+                Tricky Questions
+              </button>
+              <button
+                onClick={() => startQuiz('all')}
+                className="group relative overflow-hidden bg-white text-black py-4 md:py-8 rounded-[1rem] md:rounded-[2.5rem] text-lg md:text-3xl font-bold shadow-2xl hover:bg-[#f5f5f7] active:scale-[0.995] transition-all flex items-center justify-center gap-2 md:gap-5"
+              >
+                <LayoutGrid className="w-5 h-5 md:w-10 md:h-10" />
+                Attempt All Weeks
+              </button>
+            </div>
           </motion.div>
         )}
       </AnimatePresence>
