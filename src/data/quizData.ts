@@ -615,353 +615,353 @@ export const quizData: QuizData = {
   ],
   week7: [
     {
-      question: "Savarkar's political trajectory shows a critical shift...",
+      question: "Savarkar's political trajectory shows a critical shift in his later years. Which of the following accurately describes this shift, particularly regarding his stance on the British Rule?",
       options: [
-        "From an extremist revolutionary to a moderate constitutionalist advocating for complete non-violence",
-        "From a radical revolutionary patriot to a Hindu nationalist proponent of the British Rule, rationalising his support as 'responsive cooperation.'",
-        "From a proponent of Swaraj to an advocate for Dominion Status within the British Empire",
-        "From an anti-colonial revolutionary to a proponent of the Democratic Swaraj Party's non-cooperation movement"
+        "A. From an extremist revolutionary to a moderate constitutionalist advocating for complete non-violence.",
+        "B. From a radical revolutionary patriot to a Hindu nationalist proponent of the British Rule, rationalising his support as 'responsive cooperation.'",
+        "C. From a proponent of Swaraj to an advocate for Dominion Status within the British Empire.",
+        "D. From an anti-colonial revolutionary to a proponent of the Democratic Swaraj Party's non-cooperation movement."
       ],
       correct: 1
     },
     {
-      question: "Read the following statements regarding Savarkar's views on minorities and choose the correct option:\n\nI. Savarkar did not negate the right of minorities to co-exist, but made it conditional on accepting Hindu dominance.\nII. Savarkar supported preferential treatment to minorities accepting Hindu domination.",
+      question: "Read the following two statements and choose the correct option from below-\nI. Savarkar did not negate the right of minorities to co-exist, but he made it conditional on the ground of their acceptance of Hindu dominance.\nII. Savarkar supported preferential treatment to those minorities who accepted his condition of accepting the domination of Hindus.",
       options: [
-        "Only I",
-        "Only II",
-        "Both I & II",
-        "Neither"
+        "A. Only the statement I) is correct.",
+        "B. Only the statement II) is correct.",
+        "C. Both (I &II) statements are correct.",
+        "D. Both (I & II) statements are incorrect."
       ],
       correct: 0
     },
     {
-      question: "Savarkar's work under 'A Maratha' describes Hinduism as:",
+      question: "Savarkar's work under the pen name 'A Maratha' sought to clarify the distinction between Hinduism and his philosophy of the Hindu nation. Based on the provided context, how is 'Hinduism' defined in relation to the territory of Hindustan (Sindhusthan)?",
       options: [
-        "Hinduism is a monotheistic creed",
-        "Hinduism is rejected for secular nationalism",
-        "Hinduism is not a single religion but an integration of all creeds native to Hindustan with shared culture and heritage",
-        "Hinduism is only Vedic and excludes others"
+        "A. Hinduism is a single, monotheistic religious creed native to the land.",
+        "B. Hinduism is explicitly rejected in favor of a secular, territorial nation.",
+        "C. Hinduism is not a single religion but an integration of all religious creeds native to the land of Hindustan (Sindhusthan) and sharing a common heritage of Hindu culture and blood.",
+        "D. Hinduism is defined solely by the Vedic traditions and excludes Buddhism, Jainism, and Sikhism."
       ],
       correct: 2
     },
     {
-      question: "Closest parallel to ‘Hindutva’ according to Savarkar is:",
+      question: "According to V.D. Savarkar, which of the following terms can be the closest parallel to his philosophy of ‘Hindutva’?",
       options: [
-        "Hinduism",
-        "Hinduness",
-        "Hindi",
-        "Hindustan"
+        "A. Hinduism",
+        "B. Hinduness",
+        "C. Hindi",
+        "D. Hindustan"
       ],
       correct: 1
     },
     {
-      question: "Savarkar’s primary objection to Congress & Gandhi’s policies on minorities was:",
+      question: "In his conception of the modern state and democracy, what was Savarkar's core objection to the policies advocated by the Congress and Gandhi regarding minorities?",
       options: [
-        "Subordinate to majority religion",
-        "Opposed preferential treatment; advocacy for equality based on merit",
-        "Establishment of a theocratic state",
-        "Proportional representation for all"
+        "A. He argued for the subordination of all citizens to the majority religious group.",
+        "B. He opposed any preferential treatment to the Minorities, wanting all citizens treated equally in accordance with their individual merit/worth.",
+        "C. He advocated for a theocratic state where minority rights were completely curtailed.",
+        "D. He believed in proportional representation for all groups, which Congress opposed."
       ],
       correct: 1
     },
     {
-      question: "Identify the incorrect statement about Savarkar’s nationalism from the following:",
+      question: "From the following statements, choose the one that is not correct regarding Savarkar's ideas on nationalism.",
       options: [
-        "Culture, religion, race matter",
-        "Synthesis of Congress & Muslim League ideas",
-        "Territorial unity more important than religion/culture",
-        "One language, one culture"
+        "A. Savarkar viewed culture, religion, race, and historical affinity as contributors to the formation of nations.",
+        "B. Savarkar’s ideas on nationalism were a synthesis of territorial nationalism offered by Congress and cultural-religious nationalism put forward by the Muslim League.",
+        "C. Savarkar argued that, in the formation of a national unit, territorial unity had a bigger role to play than religious, racial or cultural attributes.",
+        "D. Savarkar regarded one language and one culture (ek bhasha ek sanskriti) as the basis of the formation of modern nations."
       ],
       correct: 2
     },
     {
-      question: "According to Savarkar, the role of ‘common blood’ (Common Pitrubhu and Punyabhu) in Hindutva is to:",
+      question: "Savarkar's philosophy of Hindutva placed significant emphasis on the ethnic and racial substance (Jati and blood) of the Hindu nation. What was the primary political utility or intended function of this emphasis?",
       options: [
-        "Separate territories",
-        "Aryan–non-Aryan unity",
-        "Reduce caste divisions via shared identity",
-        "Establish a pure merit-based system"
+        "A. To advocate for the separation of Hindu and non-Hindu territories.",
+        "B. To integrate the Aryans and non-Aryans into a monolithic racial group.",
+        "C. To minimize the importance of internal hierarchical divisions (caste) within Hindu society by assuming the existence of an invisible but potent binding factor of 'common blood'.",
+        "D. To establish a system of governance based purely on merit, ignoring all ascriptive identities."
       ],
       correct: 2
     },
     {
-      question: "Which of the following thinkers inspired Savarkar’s thinking on nationalism?",
+      question: "Who among the following inspired V D Savarkar's ideas on nation and nationalism?",
       options: [
-        "Vivekananda",
-        "Mazzini",
-        "Gandhi",
-        "Renan"
+        "A. Vivekananda",
+        "B. Mazzini",
+        "C. Mahatma Gandhi",
+        "D. Ernest Renan"
       ],
       correct: 1
     },
     {
-      question: "The basis of Savarkar's 'Essentials of Hindutva' (1923) is:",
+      question: "Savarkar's major work, Essentials of Hindutva (1923), is cited as providing the \"theoretical basis of Hindu Rashtra\". This theoretical basis fundamentally rests on which combination of factors?",
       options: [
-        "Secularism & socialism",
-        "Linguistic pluralism",
-        "One language, one culture + ethno-religious nationalism",
-        "Non-violence & village republics"
+        "A. Secularism, democratic socialism, and territorial integrity.",
+        "B. Linguistic pluralism, economic determinism, and non-violence.",
+        "C. A Pan-Hindu conceptualization rooted in one language and one culture (Ek Bhasha & Ek Sanskriti) with ethno-religious nationalism.",
+        "D. Absolute non-violence, Swadeshi, and self-reliant village republics."
       ],
       correct: 2
     },
     {
-      question: "A key difference between Savarkar and Gandhi's approach to national unity was:",
+      question: "Savarkar and Gandhi both utilized imagery and practices drawn from Hinduism to mobilize public opinion. The critical difference in their approaches lie in:",
       options: [
-        "Savarkar was more silent on the issue",
-        "Savarkar used rationality + religion for unity; Gandhi emphasized inclusiveness of all religions",
-        "Gandhi wanted all Hindus to lead the movement",
-        "Savarkar was purely anti-Gandhi without alternative vision"
+        "A. Savarkar's use of religion was much more silent than Gandhi's.",
+        "B. Savarkar advocated science and rationality and used religion to unify people for independence, while Gandhi's use was based on accommodation and space for all religious groups.",
+        "C. Gandhi sought to make all Indians Hindus, while Savarkar advocated for an accommodative Hinduism.",
+        "D. Savarkar's model was anti-thesis to Gandhi's Hinduism because of its militant chauvinism."
       ],
       correct: 1
     }
   ],
   week8: [
     {
-      question: "Nehru’s secularism aimed to ensure:",
-      options: [
-        "State non-interference",
-        "Abolition of religion",
-        "Social position not determined by religion",
-        "Hindu state"
-      ],
-      correct: 2
-    },
-    {
-      question: "Read the following statements and choose the correct option:\n\nStatement-I: Democracy includes social & economic dimensions.\nStatement-II: Equality is necessary for democracy.",
-      options: [
-        "Only I",
-        "Only II",
-        "Both Statement I & II are correct",
-        "Neither"
-      ],
-      correct: 2
-    },
-    {
-      question: "Nehru’s vision of India was based on being a:",
-      options: [
-        "Agrarian + spiritual society",
-        "Monarchy + capitalism",
-        "Secular, democratic, socialist + welfare state",
-        "Authoritarian system"
-      ],
-      correct: 2
-    },
-    {
-      question: "Which of the following statements correctly compares Gandhi and Nehru's views on the state and economy?",
-      options: [
-        "Only I: Both saw state as useless",
-        "Only II: Gandhi emphasized decentralization, while Nehru emphasized centralized planning",
-        "Both are correct",
-        "Neither is correct"
-      ],
-      correct: 1
-    },
-    {
-      question: "In Nehru's view, expanded democracy includes:",
-      options: [
-        "Political self-rule only",
-        "Scientific temper",
-        "Economic + social freedom linked to equality",
-        "Judiciary"
-      ],
-      correct: 2
-    },
-    {
-      question: "Which newspaper was founded by Jawaharlal Nehru?",
-      options: [
-        "Times of India",
-        "The Hindu",
-        "National Herald",
-        "Dainik Bhaskar"
-      ],
-      correct: 2
-    },
-    {
-      question: "Nehru’s significant international role was as a:",
-      options: [
-        "Soviet alignment representative",
-        "Leader of Non-Aligned Movement",
-        "World government advocate",
-        "Neutral isolationist"
-      ],
-      correct: 1
-    },
-    {
-      question: "Nehru criticized religious politics (communalism) because he saw it as an:",
-      options: [
-        "Foundation of nationalism",
-        "Obstacle to secular, rational nationalism",
-        "Necessary counterbalance",
-        "Private matter only"
-      ],
-      correct: 1
-    },
-    {
-      question: "Which of the following is an incorrect statement about Nehru's vision of a secular state?",
-      options: [
-        "Protect diversity",
-        "Protect minority rights",
-        "No intervention in inter-religious domination",
-        "Intervene against domination"
-      ],
-      correct: 2
-    },
-    {
-      question: "According to Nehru, a key factor for the success of secularism in India is the:",
-      options: [
-        "Western separation of Church and State",
-        "Anti-religion stance",
-        "Attitude of majority community",
-        "Suppression of religion"
-      ],
-      correct: 2
-    }
-  ],
-  week9: [
-    {
       question: "Nehru's secularism, as a 'social doctrine' rather than merely a 'political doctrine', fundamentally aimed to counteract the hierarchical structure of Indian society by ensuring:",
       options: [
-        "The state's complete non-interference in the personal faith and practices of all individuals, including religious law",
-        "The legal abolition of all forms of organized religion and the promotion of complete irreligion among citizens.",
-        "That individuals' social or hierarchical position would not be determined by their faith or religion, thereby promoting inter-group harmony.",
-        "The establishment of Hinduism as the de facto state religion while guaranteeing freedom of worship to minorities."
+        "A) The state's complete non-interference in the personal faith and practices of all individuals, including religious law",
+        "B) The legal abolition of all forms of organized religion and the promotion of complete irreligion among citizens.",
+        "C) That individuals' social or hierarchical position would not be determined by their faith or religion, thereby promoting inter-group harmony.",
+        "D) The establishment of Hinduism as the de facto state religion while guaranteeing freedom of worship to minorities."
       ],
       correct: 2
     },
     {
-      question: "Statement-I: Nehru had a broader understanding of democracy, emphasizing its social and economic dimensions.\nStatement-II: Nehru also held that it is only with the presence of equality that democracy can be sustained.",
+      question: "Read the following two statements and choose the correct option from below-\nStatement-I: Nehru had a broader understanding of democracy, emphasizing its social and economic dimensions.\nStatement-II: Nehru also held that it is only with the presence of equality that democracy can be sustained.",
       options: [
-        "Only Statement-I is correct.",
-        "Only Statement-II is correct.",
-        "Both Statement-I & II are correct.",
-        "Neither Statement-I nor Statement-II is correct."
+        "a. Only Statement-I is correct.",
+        "b. Only Statement-II is correct.",
+        "c. Both Statement- I & II are correct.",
+        "d. Neither Statement-I nor Statement-II is correct."
       ],
       correct: 2
     },
     {
       question: "Which of the following sets of concepts most accurately represents the core components of Nehru's ideal vision for independent India?",
       options: [
-        "Agrarian society, decentralized economy, spiritual revivalism, and Non-violence as the sole basis of foreign policy.",
-        "Secularism, Monarchy, Laissez-faire capitalism, and a cultural policy based on Hindu revivalism.",
-        "Secular, Democratic, Socialist country with social equality, individual freedom, a welfare state, and a centralized planned economy.",
-        "Authoritarian political system, rapid industrialization through private capital, and complete isolationism from international politics."
+        "A) Agrarian society, decentralized economy, spiritual revivalism, and Non-violence as the sole basis of foreign policy.",
+        "B) Secularism, Monarchy, Laissez-faire capitalism, and a cultural policy based on Hindu revivalism.",
+        "C) Secular, Democratic, Socialist country with social equality, individual freedom, a welfare state, and a centralized planned economy.",
+        "D) Authoritarian political system, rapid industrialization through private capital, and complete isolationism from international politics."
       ],
       correct: 2
     },
     {
-      question: "Statement-I: Gandhi and Nehru were unanimous on their idea of the state as a soulless machine and stated that it could hardly achieve any substantive development for the people.\nStatement-II: While Gandhi supported decentralization and small-scale industries, Nehru, on the other hand, was an advocate of centralized and planned economic development.",
+      question: "Read the following two statements on Gandhi and Nehru's vision of state and economic development, and choose the correct option from below-\nStatement-I: Gandhi and Nehru were unanimous on their idea of the state as a soulless machine and stated that it could hardly achieve any substantive development for the people.\nStatement-II: While Gandhi supported decentralization and small-scale industries, Nehru, on the other hand, was an advocate of centralized and planned economic development.",
       options: [
-        "Only Statement-I is correct.",
-        "Only Statement-II is correct.",
-        "Both Statement-I & II are correct.",
-        "Neither Statement-I nor Statement-II is correct."
+        "a. Only Statement-I is correct.",
+        "b. Only Statement-II is correct.",
+        "c. Both Statement- I & II are correct.",
+        "d. Neither Statement I nor Statement II is correct."
       ],
       correct: 1
     },
     {
-      question: "Nehru's expansive conception of democracy evolved from an initial focus on 'swaraj' to a broader framework. This later understanding entailed:",
+      question: "Nehru's expansive conception of democracy evolved from an initial focus on 'swaraj' to a broader framework. This later, broader understanding essentially entailed the integration of which dimensions?",
       options: [
-        "Political self-rule and aggressive nationalism.",
-        "Scientific temper and cultural freedom only.",
-        "Economic and social dimensions of freedom linked to equality.",
-        "Parliamentary procedure and judiciary."
+        "A) Political self-rule and the promotion of aggressive, anti-colonial nationalism.",
+        "B) Scientific temper and an exclusive focus on intellectual and cultural freedom.",
+        "C) Economic and social dimensions of freedom, intrinsically linked to the concept of equality.",
+        "D) Parliamentary procedure and the establishment of a robust, independent judiciary.",
       ],
       correct: 2
     },
     {
-      question: "Nehru was the founding editor of which newspaper?",
+      question: "Nehru was the founding editor of which of the following newspapers?",
       options: [
-        "Times of India",
-        "The Hindu",
-        "National Herald",
-        "Dainik Bhaskar"
+        "a. Times of India",
+        "b. The Hindu",
+        "c. National Herald",
+        "d. Dainik Bhaskar"
       ],
       correct: 2
     },
     {
-      question: "In anti-colonial struggles, Nehru is best described as:",
+      question: "In the context of the anti-colonial and anti-imperial struggles, Nehru's international role is best described as being prominently associated with:",
       options: [
-        "Allied only with Soviet bloc",
-        "Leader of Non-Alignment Movement and advocate of independent foreign policy",
-        "Advocate of world government led by Asia",
-        "Completely neutral internationally"
+        "A) Exclusive alliance with the Soviet bloc and a rejection of all Western political systems.",
+        "B) Being a primary architect and prominent leader of the Non-Alignment Movement and a consistent advocate for the independent foreign policies of newly emerging nations.",
+        "C) Advocating for a world government led by the newly independent countries of Asia.",
+        "D) Remaining neutral and uninvolved in all international anti-colonial movements to focus solely on domestic development."
       ],
       correct: 1
     },
     {
-      question: "Nehru criticized religious and revivalist politics because they were:",
+      question: "Nehru's staunch criticism of 'religious, metaphysical and revivalist politics' stems from his conviction that these factors constituted:",
       options: [
-        "Foundations of Indian nationalism",
-        "Obstacles to national liberation and scientific nationalism",
-        "Counterbalance to Westernization",
-        "Acceptable only privately"
+        "A) Essential foundations for a unique Indian form of nationalism distinct from the West.",
+        "B) The greatest impediments to the cause of national liberation and the development of a secular, rational, and scientific nationalism.",
+        "C) Necessary counterbalances to the excessive Westernization advocated by the moderate section of the Congress.",
+        "D) Acceptable elements in the private sphere but not in the public domain of the political movement."
       ],
       correct: 1
     },
     {
-      question: "Choose the incorrect statement regarding Nehru's vision of a secular state:",
+      question: "Jawaharlal Nehru is known for his secular outlook towards politics. He focused on how a secular state should act in a society marked with religious diversity. From the following statements, choose the one that is incorrect regarding his ideas on the functions of a secular state in a religiously diverse society.",
       options: [
-        "State must protect religious diversity",
-        "State must protect minority rights",
-        "Inter-religious domination resolves naturally; state should not intervene",
-        "State should intervene against majoritarian domination"
+        "a. It is the duty of the secular state to protect religious diversity.",
+        "b. A secular state should be committed to the rights of the minorities.",
+        "c. Inter-religious domination is a natural consequence of a religiously diverse society, and it can be resolved spontaneously. Under no circumstances should a secular state intervene in the mutual affairs among existing religious communities.",
+        "d. A secular state should intervene in the majoritarian acts of a religious community to undermine inter-religious domination."
       ],
       correct: 2
     },
     {
-      question: "According to Nehru, realization of secularism depends on:",
+      question: "According to Nehru, the realization of the secular ideal in India depended largely upon which critical factor?",
       options: [
-        "Western-style separation of church and state",
-        "Anti-religious government stance",
-        "Attitude of majority community treating minority interests as a sacred trust",
-        "Suppression of religion"
+        "A) The successful implementation of a purely Western-style separation of church and state.",
+        "B) The development of a strong anti-religious stance by the government.",
+        "C) The attitude adopted by the majority community (Hindus) towards minority communities, requiring them to view minority interests as a sacred trust.",
+        "D) The complete suppression of all forms of organized religious practice in public life."
       ],
       correct: 2
+    }
+  ],
+  week9: [
+    {
+      question: "Ambedkar's critique of the caste system primarily focuses on its mechanism of maintenance. Which option best captures this analytical point?",
+      options: [
+        "(a) Caste is maintained primarily through continuous, overt use of physical force by the dominant groups.",
+        "(b) The caste hierarchy operates largely by 'voluntary submission' characterized by 'an ascending scale of reverence and a descending scale of contempt’.",
+        "(c) The system is sustained by a state-enforced legal framework that explicitly sanctions hierarchical discrimination",
+        "(d) Caste's primary challenge to India's evolution was economic exploitation, separate from social hierarchy."
+      ],
+      correct: 1
+    },
+    {
+      question: "Read the following two statements and choose the correct option from below-\nStatement-I: Ambedkar argued that caste was the major hindrance towards the formation of a united political community in India.\nStatement-II: The caste system, Ambedkar argued, maintained its hierarchies primarily by voluntary submissions of people characterised by ‘an ascending scale of reverence and a descending scale of contempt’.",
+      options: [
+        "a. Only Statement I is correct.",
+        "b. Only Statement II is correct.",
+        "c. Both Statements I and II are correct.",
+        "d. Neither Statement I nor Statement-II is correct."
+      ],
+      correct: 2
+    },
+    {
+      question: "Which of the following constitutional provisions reflects Ambedkar's core belief that political democracy is meaningless without corresponding socio-economic democracy, a theme evident in his broader political project?",
+      options: [
+        "(a) The establishment of a bicameral legislature.",
+        "(b) The provision for the democratic abolition of Untouchability and safeguards for minorities.",
+        "(c) The adoption of a parliamentary form of government.",
+        "(d) The federal structure with a strong center."
+      ],
+      correct: 1
+    },
+    {
+      question: "How does Ambedkar's formation of the Independent Labour Party (1936) and the Scheduled Caste Federation (1942) illustrate his political strategy?",
+      options: [
+        "(a) It demonstrates a gradual move towards collaboration with the Indian National Congress.",
+        "(b) It reflects a belief in a political approach utilizing the opportunities of the British constitutional framework to petition for Dalit rights.",
+        "(c) It shows a commitment to revolutionary overthrow of the existing social order.",
+        "(d) It was primarily focused on obtaining reservations in educational institutions."
+      ],
+      correct: 1
+    },
+    {
+      question: "A proper way to engage with Ambedkar and his work demands us to see him as a:",
+      options: [
+        "(a) Purely political activist focused on electoral gains.",
+        "(b) Thinker who critically analyzed Indian society and politic and whose predictions on Indian democracy remain prophetic.",
+        "(c) Dedicated Marxist historian.",
+        "(d) Reformer whose influence ended with the drafting of the Constitution."
+      ],
+      correct: 1
+    },
+    {
+      question: "Which of the following sentences correctly reflects Ambedkar's view on the nature of religion?",
+      options: [
+        "(a) A true religious act must be an external performance of prescribed rituals.",
+        "(b) Religion must be mainly a matter of rules to ensure social uniformity.",
+        "(c) When religion degenerates into a set of rules, it kills responsibility.",
+        "(d) Hinduism, being a set of principles, cultivates maximum personal responsibility."
+      ],
+      correct: 2
+    },
+    {
+      question: "Ambedkar's criticism that the consciousness existing in every Hindu is the 'consciousness of his caste', leading to the conclusion that Hindus cannot be said to form a society or a nation, is an example of which type of analysis?",
+      options: [
+        "(a) Purely administrative critique of British colonial policy.",
+        "(b) A sociological and political critique linking caste fragmentation directly to the failure of creating a cohesive national political community.",
+        "(c) An anthropological study focusing exclusively on racial intermingling.",
+        "(d) A religious critique focused solely on theological cleavages."
+      ],
+      correct: 1
+    },
+    {
+      question: "From the given statements, choose the one that is not correct regarding Nehru’s overall conception of foreign policy.",
+      options: [
+        "a. Nehru viewed that a country’s foreign policy should promote international peace and security.",
+        "b. Nehru viewed that a country’s foreign policy should aim to maintain just and honourable relations between nations.",
+        "c. Nehru viewed that a country’s foreign policy should be respectful towards international laws and treaties.",
+        "d. Nehru believed that a country’s foreign policy should be guided solely by national interests."
+      ],
+      correct: 3
+    },
+    {
+      question: "Nehru criticised Clarence K. Streit's proposal for a Union of Democracies among 15 North Atlantic nations primarily on the grounds that:",
+      options: [
+        "(a) The proposed Union was excessively socialist and anti-capitalist.",
+        "(b) It did not include all 15 North Atlantic nations.",
+        "(c) It was conceptually flawed by excluding major nations like India and China, and by including nations that were still imperialist and fascist in character.",
+        "(d) It placed too much emphasis on defence and too little on trade."
+      ],
+      correct: 2
+    },
+    {
+      question: "Which of the following was not one of the five tenets of the 'Panchsheel Agreement' signed in 1954?",
+      options: [
+        "a. Peaceful co-existence.",
+        "b. Respect each other's sovereignty and territorial integrity.",
+        "c. Non-interference in each other’s domestic matters.",
+        "d. Mediation by a third-party during conflict."
+      ],
+      correct: 3
     }
   ],
   week10: [
     {
       question: "Which of the following is not an element of constitutional morality?",
       options: [
-        "Freedom and self-restraint.",
-        "Recognition of plurality.",
-        "Being sceptical of any personification of authority.",
-        "Right to violent protest when necessary."
+        "a. Freedom and self-restraint.",
+        "b. Recognition of plurality.",
+        "c. Being sceptical of any personification of authority.",
+        "d. Right to violent protest when necessary."
       ],
       correct: 3
     },
     {
       question: "Which of the following best captures Ambedkar's critique of the failure of Parliamentary democracy in Western countries?",
       options: [
-        "A lack of emphasis on political liberty, leading to authoritarianism.",
-        "A failure to adopt the representative form of government effectively.",
-        "The inability to balance liberty and equality, resulting in liberty \"swallowing\" equality.",
-        "The prioritization of constitutional morality over the spirit of fraternity."
+        "a. A lack of emphasis on political liberty, leading to authoritarianism.",
+        "b. A failure to adopt the representative form of government effectively.",
+        "c. The inability to balance liberty and equality, resulting in liberty \"swallowing\" equality.",
+        "d. The prioritization of constitutional morality over the spirit of fraternity."
       ],
       correct: 2
     },
     {
       question: "Ambedkar considered the use of ‘non-cooperation, civil disobedience and satyagraha’ in the independent India as:",
       options: [
-        "Essential methods for ensuring accountability in the post-colonial state.",
-        "Extra-constitutional methods that constitute the \"grammar of anarchy”.",
-        "Necessary instruments for achieving social and economic democracy.",
-        "Legitimate forms of protest upheld by constitutional morality."
+        "a. Essential methods for ensuring accountability in the post-colonial state.",
+        "b. Extra-constitutional methods that constitute the \"grammar of anarchy”.",
+        "c. Necessary instruments for achieving social and economic democracy.",
+        "d. Legitimate forms of protest upheld by constitutional morality."
       ],
       correct: 1
     },
     {
       question: "Ambedkar's concept of a 'good society' is based on the principles of:",
       options: [
-        "Rationality, Scientific Outlook, and Constitutional Morality.",
-        "Political Democracy, Economic Democracy, and Social Democracy.",
-        "Liberty, Equality, and Fraternity.",
-        "One Man One Vote, One Vote One Value, and Social Transformation."
+        "a) Rationality, Scientific Outlook, and Constitutional Morality.",
+        "b) Political Democracy, Economic Democracy, and Social Democracy.",
+        "c) Liberty, Equality, and Fraternity.",
+        "d) One Man One Vote, One Vote One Value, and Social Transformation."
       ],
       correct: 2
     },
     {
-      question: "The three distinct ways Ambedkar offered to safeguard democracy in India include:\n\nI. Upholding constitutional methods of politics.\nII. Cautioning against hero-worshipping.\nIII. Striving equally for social democracy alongside political democracy.\nIV. Promoting revolutionary changes through non-violent means.",
+      question: "The three distinct ways Ambedkar offered to safeguard democracy in India include:\nI. Upholding constitutional methods of politics.\nII. Cautioning against hero-worshipping.\nIII. Striving equally for social democracy alongside political democracy.\nIV. Promoting revolutionary changes through non-violent means.",
       options: [
         "(a) I, II, and IV only",
         "(b) II, III, and IV only",
@@ -973,254 +973,254 @@ export const quizData: QuizData = {
     {
       question: "Ramabai's efforts to carve out a space for herself in the \"mainstream reform discourse\" are significant because this discourse was previously characterised as:",
       options: [
-        "Predominantly focused on religious conversion rather than social upliftment.",
-        "Largely an upper caste, middle class, and male-dominated project.",
-        "Primarily concerned with education and not with providing shelter or self-reliance.",
-        "Strictly limited to the province of Bengal and the Brahmo Samaj."
+        "a) Predominantly focused on religious conversion rather than social upliftment.",
+        "b) Largely an upper caste, middle class, and male-dominated project.",
+        "c) Primarily concerned with education and not with providing shelter or self-reliance.",
+        "d) Strictly limited to the province of Bengal and the Brahmo Samaj."
       ],
       correct: 1
     },
     {
       question: "Pandita Ramabai is known as a devoted champion of women’s rights in India. From the following statements, choose the one that most adequately explains her approach towards women’s emancipation.",
       options: [
-        "Ramabai argued that the emancipation of women was possible through social reforms.",
-        "Ramabai argued that the emancipation of women could be brought about through education.",
-        "Ramabai’s vision for women’s emancipation was not limited to social reform and education alone. Liberating women through self-reliance was another essential aspect of women’s emancipation for Ramabai.",
-        "Ramabai held that it was only through Western liberal education that women could be emancipated."
+        "a. Ramabai argued that the emancipation of women was possible through social reforms.",
+        "b. Ramabai argued that the emancipation of women could be brought about through education.",
+        "c. Ramabai’s vision for women’s emancipation was not limited to social reform and education alone. Liberating women through self-reliance was another essential aspect of women’s emancipation for Ramabai.",
+        "d. Ramabai held that it was only through Western liberal education that women could be emancipated."
       ],
       correct: 2
     },
     {
       question: "Ramabai's critique of the institutional Church hierarchy and her adherence to her \"liberty of conscience\" (as detailed in her writings) primarily reveals a tension between:",
       options: [
-        "Her Western education and her commitment to traditional Indian philosophy.",
-        "Her personal spiritual need for comfort and the authoritarian/dogmatic structure of organized religion.",
-        "Her loyalty to the Christian faith and her patriotic commitment to Indian nationalism.",
-        "Her role as a social reformer and her duties as a wife and mother."
+        "(a) Her Western education and her commitment to traditional Indian philosophy.",
+        "(b) Her personal spiritual need for comfort and the authoritarian/dogmatic structure of organized religion.",
+        "(c) Her loyalty to the Christian faith and her patriotic commitment to Indian nationalism.",
+        "(d) Her role as a social reformer and her duties as a wife and mother."
       ],
       correct: 1
     },
     {
       question: "Which of the following statements is incorrect regarding Ambedkar's understanding of democracy?",
       options: [
-        "For Ambedkar, democracy is the means and ends of forming an ideal society.",
-        "Ambedkar argued that scientific outlook and rationality are not necessarily linked to the practice of democracy.",
-        "In Ambedkar’s view, democracy is not merely a form of government but also a mode of associated living where everybody is treated with respect.",
-        "Ambedkar envisioned democracy as a medium of social transformation and human progress."
+        "a. For Ambedkar, democracy is the means and ends of forming an ideal society.",
+        "b. Ambedkar argued that scientific outlook and rationality are not necessarily linked to the practice of democracy.",
+        "c. In Ambedkar’s view, democracy is not merely a form of government but also a mode of associated living where everybody is treated with respect.",
+        "d. Ambedkar envisioned democracy as a medium of social transformation and human progress."
       ],
       correct: 1
     },
     {
       question: "Contrast Ramabai's approach to gender reform with the general trend of male reformers. Ramabai's primary contribution was:",
       options: [
-        "Introducing the use of Sanskrit scripture to justify women's right to education.",
-        "Restricting her focus exclusively to the plight of upper-caste Hindu widows.",
-        "Transcending the limits of gender reforms set by male reformers by adding the goal of self-reliance.",
-        "Advocating for legal change and constitutional rights as the sole means of emancipation."
+        "a) Introducing the use of Sanskrit scripture to justify women's right to education.",
+        "b) Restricting her focus exclusively to the plight of upper-caste Hindu widows.",
+        "c) Transcending the limits of gender reforms set by male reformers by adding the goal of self-reliance.",
+        "d) Advocating for legal change and constitutional rights as the sole means of emancipation."
       ],
       correct: 2
     }
   ],
   week11: [
     {
-      question: "Which of the following describes Pandita Ramabai’s shift regarding Shastras?",
+      question: "Ramabai's shift in thought regarding the role of Shastras in women's emancipation, as evidenced between Stri Dharma Niti (1882) and her later views, primarily signifies a transition from:",
       options: [
-        "Reformist reading → dismissal",
-        "Initially emphasizing Shastric education → later critiquing their role in patriarchal oppression",
-        "Bhakti-only liberation",
-        "Total acceptance of male reformers’ interpretation"
+        "a) Advocating for a reformist reading of Shastras to completely dismissing their relevance.",
+        "b) Initially emphasizing Shastric education for domestic virtues to later critiquing their foundational role in patriarchal oppression.",
+        "c) A belief that Shastras inherently provided liberation to an understanding that only Bhakti could achieve it.",
+        "d) Endorsing contemporary male reformers' interpretations to developing a uniquely indigenous feminist critique of Western education."
       ],
       correct: 1
     },
     {
-      question: "Identify the incorrect statement about Ram Manohar Lohia’s ‘principle of immediacy’:",
+      question: "From the following statements, choose the one that is not correct regarding Lohia’s ‘principle of immediacy’.",
       options: [
-        "Ethical justification is intrinsic to every act",
-        "It is based on the present context, not a distant future",
-        "It saves politics from greed and fear",
-        "Human actions can only be justified in relation to future implications"
+        "a. Each action has an ethical justification intrinsic to itself.",
+        "b. The ethical justification of each action is based on the present and not on the distant future.",
+        "c. The principle of immediacy would save people from the politics of greed or fear.",
+        "d. Human actions can only be justified in relation to their future implications, not their present ramifications."
       ],
       correct: 3
     },
     {
-      question: "What was Ramabai’s historiographical perspective on Sati?",
+      question: "Ramabai's argument in The High-Caste Hindu Woman concerning the practice of Sati introduces a key historiographical perspective by:",
       options: [
-        "She blamed British intervention",
-        "She argued it was the fault of the Varna system",
-        "She attributed it to the misreading and misinterpretation of Vedas by the priestly class",
-        "She called for a return to the Vedic past to solve it"
+        "a) Directly blaming the British colonial administration for encouraging the practice.",
+        "b) Locating the justification for Sati within the inherent flaws of the Varna system.",
+        "c) Drawing upon the philological work of Max Muller to argue that the practice is a result of misreading and misinterpretation of the Vedas by the priestly class.",
+        "d) Proposing a return to the pristine Vedic period where all women had political rights and could thus resist Sati."
       ],
       correct: 2
     },
     {
-      question: "Who is often considered as a bridge between the ideas of Gandhi and Ambedkar?",
+      question: "On the questions of caste and modernity, which among the following thinkers can be regarded as a bridge between Gandhi and Ambedkar?",
       options: [
-        "Pandita Ramabai",
-        "Jawaharlal Nehru",
-        "Jyotiba Phule",
-        "Ram Manohar Lohia"
+        "a. Pandita Ramabai",
+        "b. Jawaharlal Nehru",
+        "c. Jyotiba Phule",
+        "d. Ram Manohar Lohia"
       ],
       correct: 3
     },
     {
-      question: "Ramabai linked women’s degradation to the 'destruction of the nation' through the concept of:",
+      question: "Ramabai connects the degradation in the status of women to the 'degradation of the Hindu nation as such'. This argument is conceptually grounded in:",
       options: [
-        "Marxist framework",
-        "Cultural nationalism",
-        "Pre-natal influences affecting national progress",
-        "Political disenfranchisement only"
+        "(a) A Marxist framework focusing on the lack of women's ownership of the means of production.",
+        "(b) A cultural-nationalist claim asserting that national strength is contingent upon the preservation of traditional gender roles.",
+        "(c) The concept of pre-natal influences, arguing that marginalized, ignorant, and unhealthy mothers cannot give birth to healthy children, thereby affecting the progeny and national progress.",
+        "(d) A purely political analysis where women's political disenfranchisement leads to national decline."
       ],
       correct: 2
     },
     {
-      question: "According to Meera Kosambi, what was the unique 'othering' element in Ramabai’s vision for women?",
+      question: "According to Meera Kosambi, Ramabai's initial 'Othering' in Maharashtra was less about her conversion to Christianity and more a reaction to her radical feminism, specifically her emphasis on:",
       options: [
-        "Literacy",
-        "Inter-caste marriage",
-        "Self-reliance for women",
-        "Vedic revivalism"
+        "a) Universal literacy.",
+        "b) Inter-caste marriage.",
+        "c) Self-reliance' for women.",
+        "d) Vedic revivalism."
       ],
       correct: 2
     },
     {
-      question: "Lohia’s concept of socialism is primarily based on:",
+      question: "Ram Manohar Lohia's formulation of a distinct Indian version of socialism is fundamentally predicated on:",
       options: [
-        "Classical Marxism",
-        "The rejection of all foreign ideas",
-        "An indigenous solution free from Eurocentric influences",
-        "Nehruvian centralized planning"
+        "a) A strict adherence to the economic principles of classical Marxism, adapted for Indian agrarian society.",
+        "b) The total rejection of all political thought originating outside India.",
+        "c) The belief in an indigenous solution to Indian problems, free from Eurocentric influences like capitalism and communism.",
+        "d) Advocating for a centralised, Nehruvian model of economic planning combined with Gandhian moral values."
       ],
       correct: 2
     },
     {
-      question: "Lohia’s critique of both capitalism and communism aligns with which of the following?",
+      question: "Lohia's critique of both capitalism and communism, viewing them as two faces of modern civilization that have reached a 'dead end', aligns him most closely, in terms of intellectual tradition, with:",
       options: [
-        "Anarchism",
-        "Religious fundamentalism",
-        "A critique of capitalist modernity similar to Gandhi",
-        "Liberal democracy"
+        "a) A complete political anarchist who rejects all organized systems.",
+        "b) A fundamentalist advocate for a return to pre-modern religious structures.",
+        "c) A thinker offering a critique of capitalist modernity, similar to Gandhi's view of modern civilization.",
+        "d) proponent of the Western liberal democratic framework."
       ],
       correct: 2
     },
     {
-      question: "What does Lohia’s ‘forward-looking worldview’ involve?",
+      question: "Lohia's distinction between a ‘side-looking’ and a ‘forward-looking’ worldview is essential to understanding his vision of ‘real modernity’. A forward-looking worldview, in this context, implies:",
       options: [
-        "Copying the West directly",
-        "Rejecting all global ideas",
-        "Reconstructing the world using suitable elements from backward and side-looking views",
-        "Focusing purely on military power"
+        "a) Simple and complete replication of European and US modern civilization.",
+        "b) Total rejection of all contemporary global intellectual currents.",
+        "c) Reconstructing the world from scratch by adopting what is suitable or rational from both backwards-looking and side-looking perspectives.",
+        "d) Focusing solely on developing military and technological superiority over the West."
       ],
       correct: 2
     },
     {
-      question: "Read the following statements on Ramabai and choose the correct option:\n\nStatement-I: She believed women had a better status in the ancient past.\nStatement-II: She linked the decline of women's status to the decline of the Hindu nation.",
+      question: "Read the following two statements and choose the correct option from below-\n\nStatement-I: Ramabai argued that Indian women had a better status in the past in comparison to her contemporary degradation.\nStatement II: Ramabai explains this degradation in the status of women in terms of the degradation of the Hindu nation.",
       options: [
-        "Only Statement I is correct",
-        "Only Statement II is correct",
-        "Both Statements I & II are correct",
-        "Neither"
+        "a. Only Statement I is correct.",
+        "b. Only Statement II is correct.",
+        "c. Both Statement I & II are correct.",
+        "d. Neither Statement-I nor Statement-II is correct."
       ],
       correct: 2
     }
   ],
   week12: [
     {
-      question: "What are the core concerns shared by many modern Indian political thinkers?",
+      question: "The major concerns of modern Indian political thinkers included harmonising seemingly antithetical ideals. Which set of concerns best encapsulates the core tensions these thinkers address?",
       options: [
-        "Colonialism vs Orientalism",
-        "National unity and religious discord; Individual freedom and social equity; Nationalist ideals and global approach",
-        "Eurocentrism vs indigeneity",
-        "Exclusively Hindutva concepts"
+        "A) Colonialism and Orientalism; Theory and Thought.",
+        "B) National unity and religious discord; Individual freedom and social equity; Nationalist ideals and global approach.",
+        "C) Eurocentric concepts and narrow indigeneity; Swaraj and Religious nationalism.",
+        "D) Hinduism and Hindutva; Panchamarhi Sapt Kranti and Chaukhambha Raj"
       ],
       correct: 1
     },
     {
-      question: "According to Lohia, which factors traditionally facilitate entry into the Indian ruling class?",
+      question: "According to Lohia, which set of characteristics were essential for entry into the Indian ruling class?",
       options: [
-        "Land ownership and mother tongue proficiency",
-        "High caste, English education, and wealth",
-        "Purely political membership",
-        "Deep socialist commitment"
+        "A) Land ownership, Political Connections, and Regional Language proficiency.",
+        "B) High caste, English education, and wealth.",
+        "C) Membership in the ruling political party, adherence to constitutional principles, and large-scale industrial assets.",
+        "D) Commitment to socialism, advocacy for decentralization, and anti-Brahmin stance."
       ],
       correct: 1
     },
     {
-      question: "Which statement correctly reflects Lohia’s strategy regarding caste compared to Periyar?",
+      question: "How does Rammanohar Lohia's approach to the caste question differ strategically from that of Periyar, even though they agree on the necessity of caste elimination?",
       options: [
-        "Lohia supported reform over elimination",
-        "Lohia focused on economic rather than cultural change",
-        "Lohia focused primarily on gender",
-        "Lohia opposed violent anti-Brahminism and certain campaigns specifically linked to Periyar"
+        "A) Lohia advocated for mere reform of the caste system, which Periyar rejected",
+        "B) Lohia focused exclusively on economic disparities, while Periyar focused on cultural issues.",
+        "C) Lohia paid greater attention to gender-based oppression, which Periyar largely ignored.",
+        "D) Lohia opposed violent anti-Brahminism and campaigns against Gandhi, the Constitution, and Hindi, which were associated with some of Periyar's movements."
       ],
       correct: 3
     },
     {
-      question: "Lohia’s proposed ‘Four Pillar State’ structure includes:",
+      question: "Lohia's 'Four Pillar State' (Chaukhambha Raj) is a model for decentralized governance. Which pillar, according to him, should share the ownership of property in a manner to prevent its concentration at the highest level?",
       options: [
-        "The Village and the Center only",
-        "The Center, The State (Province), The District, and The Village",
-        "The Province and the Center only",
-        "Only Institutional frameworks"
+        "A) Only the Village and the Center.",
+        "B) The Center, The State (Province), The District, and The Village.",
+        "C) Only the Province and the Center, representing the state government.",
+        "D) The Legislature, The Executive, The Judiciary, and the Press."
       ],
       correct: 1
     },
     {
-      question: "Read the following statements on Lohia’s views on the English language and choose the correct option:\n\nStatement-I: He advocated for the replacement of English with Hindi.\nStatement-II: He believed the English language creates and perpetuates social inequality.",
+      question: "Read the following two statements and choose the correct option from below-\n\nStatement I: Lohia was a prominent leader of the ‘Angrezi Hatao Movement’, and he advocated the replacement of English with the Hindi as the lingua franca of India.\n\nStatement II: Lohia opposed English not because it was a foreign language but because it was, in the Indian context, a vehicle of inequality and social exclusion.",
       options: [
-        "Only Statement I is correct",
-        "Only Statement II is correct",
-        "Both Statement I & II are correct",
-        "Neither"
+        "A) Only Statement I is correct.",
+        "B) Only Statement II is correct.",
+        "C) Both Statements I & II are correct.",
+        "D) Neither Statement I nor Statement II is correct."
       ],
       correct: 2
     },
     {
-      question: "Under the Sapta Kranti (Seven Revolutions) principle, which aspect is highlighted regarding gender and caste?",
+      question: "Which principle of Lohia's 'Sapt Kranti' (Seven Revolutions) most directly addresses his emphasis on the interlinkages of caste and gender oppression?",
       options: [
-        "Fighting against racial inequality",
-        "The total destruction of all castes immediately",
-        "Equality between man and woman",
-        "Purely economic equality"
+        "A) Against political, economic and spiritual inequality based on color or race.",
+        "B) For the destruction of castes.",
+        "C) For equality between man and woman.",
+        "D) For economic equality, planned production and against private property."
       ],
       correct: 2
     },
     {
-      question: "What was Lohia’s primary critique regarding the conceptualization of socialism?",
+      question: "Lohia's critique of contemporary socialism stemmed from his belief that it had derived its economic aims from Communism and its general concerns (democracy, freedom, peace) from Capitalism. What was the central implication of this synthesis, according to him?",
       options: [
-        "It was a perfect ideology that shouldn't be touched",
-        "Socialism needed autonomous conceptualization (without prefixes or suffixes)",
-        "It required a more centralized state structure",
-        "It was limited by European universalization"
+        "A) Socialism was effectively a perfect, universal ideology requiring no modification.",
+        "B) Socialism stood for a distinct idea that needed no prefix or suffix, asserting its autonomous conceptualization.",
+        "C) It led to a strong, centralized state focused solely on economic growth, ignoring social justice.",
+        "D) It justified the universalization of European historical peculiarities across the Third World."
       ],
       correct: 1
     },
     {
-      question: "Lohia criticized the use of English in India because he believed it led to:",
+      question: "Lohia's critique of the English language was deeply linked to the concept of 'modernity'. He argued that English failed to provide modernity to an Indian because:",
       options: [
-        "A stronger mother tongue argument",
-        "A more dynamic approach to development",
-        "Hypocrisy and loss of personality/distortion",
-        "Limitations in scientific advancement"
+        "A) It promoted the mother tongue argument which he rejected.",
+        "B) It led to a dynamic and not dogmatic approach to human involvement.",
+        "C) It \"besets him with hypocrisy; it turns an Indian into a bundle of complexes, a man with no human personality, an imitating headless monkey.\"",
+        "D) It could not adequately express ideas related to science and technology."
       ],
       correct: 2
     },
     {
-      question: "Which of the following is NOT among Lohia’s key areas for the emancipation of women of depressed castes?",
+      question: "What is/are not among the four key areas that Lohia considered important to root out the double oppression of the women of depressed castes?",
       options: [
-        "Inter-caste marriage reform",
-        "Equality in education and property",
-        "Political preference for women",
-        "Educating women to perform duties as ideal wives and mothers"
+        "A. Re-examination of the institution of marriage and the hypocrisies involved.",
+        "B. Equality in educational and property rights.",
+        "C. Preferential treatment in politics and employment.",
+        "D. Educating women on performing their duties as ideal wives and mothers"
       ],
       correct: 3
     },
     {
-      question: "Who is the author of the influential work “Marx, Gandhi and Socialism”?",
+      question: "The book entitled 'Marx, Gandhi and Socialism' was authored by which of the following political thinkers?",
       options: [
-        "B.R. Ambedkar",
-        "Ram Manohar Lohia",
-        "M.N. Roy",
-        "Jayaprakash Narayan"
+        "A) B.R. Ambedkar",
+        "B) Ram Manohar Lohia",
+        "C) M.N. Roy",
+        "D) Jayaprakash Narayan"
       ],
       correct: 1
     }
