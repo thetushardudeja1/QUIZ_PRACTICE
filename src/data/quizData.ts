@@ -411,17 +411,17 @@ export const quizData: QuizData = {
   ],
   week5: [
     {
-      question: "‘Pax Gandhiana’ classification signifies:",
+      question: "Anthony J. Parel classified Gandhiji's political philosophy as 'Pax Gandhiana'. This classification is primarily significant because it:",
       options: [
-        "Limited to anti-colonial struggle",
-        "Universal relevance and applicability of Gandhi’s ideals of Satyagraha and non-violence",
-        "Focus on organizer role",
-        "Linked to Christianity and Islam"
+        "Highlights Gandhi's philosophy as a unique Indian response limited to the anti-colonial struggle.",
+        "Emphasizes the universal relevance and applicability of Gandhi's ideals of Satyagraha and non-violence beyond the Indian context.",
+        "Focuses exclusively on Gandhi's contribution as the 'single most important organizer' of the Indian nationalist movement.",
+        "Connects Gandhi's thought directly to the Christian and Islamic influences he encountered in South Africa."
       ],
       correct: 1
     },
     {
-      question: "Disagreement between Mahatma Gandhi and B.R. Ambedkar was on which of the following issues?",
+      question: "On which of the following issues was there a significant disagreement between Mahatma Gandhi and B.R. Ambedkar?",
       options: [
         "Swaraj",
         "Ahimsa",
@@ -431,17 +431,17 @@ export const quizData: QuizData = {
       correct: 3
     },
     {
-      question: "Gandhi’s stance on the relationship between means and ends:",
+      question: "Which of the following statements most accurately reflects Gandhi's non-negotiable philosophical stance on the relationship between means (e.g., Satyagraha) and ends (e.g., Truth or Swaraj)?",
       options: [
-        "Ends justify compromise",
-        "Adoption of just means is a supreme duty ensuring just ends",
-        "Means judged by ends",
-        "Aggression justified if delayed"
+        "The ends, being the ultimate goal, often necessitate a temporary compromise on the purity of the means for strategic success.",
+        "The ends are merely a consequence of the means, thus the adoption of just means is a 'supreme duty' that guarantees a just end, irrespective of time.",
+        "Means and ends are distinct political categories, where the effectiveness of the means is judged by its contribution to the final, desired end.",
+        "Purity of means is essential, but if delayed, aggressive non-violence becomes justified to accelerate the attainment of the just end."
       ],
       correct: 1
     },
     {
-      question: "‘Life Without Principles’, which greatly influenced Gandhi, was written by:",
+      question: "Mahatma Gandhi was a voracious reader interested in writings from around the world. One of the major texts that greatly influenced him was ‘Life Without Principles’. Who among the following writers had authored this text?",
       options: [
         "Martin Luther King",
         "Nelson Mandela",
@@ -451,164 +451,164 @@ export const quizData: QuizData = {
       correct: 3
     },
     {
-      question: "Gandhi’s critique of the modern state and his \"greatest fear\" was fundamentally based on the State's tendency towards:",
+      question: "Gandhi's critique of the modern state as a \"soulless machine\" and his \"greatest fear\" concerning its increasing power is fundamentally based on the State's tendency to:",
       options: [
-        "Promoting capitalism",
-        "Centralization destroying individuality",
-        "Failing to regulate society",
-        "Ignoring Sarvodaya"
+        "Promote British-style capitalism and protect the interests of the wealthy elite.",
+        "Centralize authority, thereby \"destroying individuality, which lies at the root of all progress.\"",
+        "Fail in regulating material life, leading to social disorder and violence.",
+        "Neglect the ideals of Sarvodaya and adhere to the utilitarian formula."
       ],
       correct: 1
     },
     {
-      question: "Read the following two statements regarding machinery and technology and choose the correct option:\n\nStatement I: The usage of machinery should be morally guided.\nStatement II: Increasing use of technology and machinery can result in massive unemployment.",
+      question: "Read the following two statements and choose the correct option from below Statement I: Mahatma Gandhi was sceptical of the uncontrolled madness behind the machinery. In his view, the usage of machinery should be guided by moral considerations regarding how men should conduct their lives. Statement II: Mahatma Gandhi also argued that the increasing use of technology and machinery could result in massive unemployment.",
       options: [
-        "Only I",
-        "Only II",
-        "Both Statement I & II are correct",
-        "Neither"
+        "Only Statement I is correct.",
+        "Only Statement II is correct.",
+        "Both Statement I & II are correct.",
+        "Neither statement I nor II is correct."
       ],
       correct: 2
     },
     {
-      question: "The Gandhian concept of Trusteeship implies:",
+      question: "The Gandhian concept of Trusteeship is not merely an economic policy for wealth distribution but also serves as a necessary ethical practice for the rich towards:",
       options: [
-        "Gaining political power",
-        "Complete non-possession (Aparigraha) only",
-        "Ethical responsibility of rich toward poor by holding excess property as a trust",
-        "Capital mobilization for village industries"
+        "Achieving political power by controlling community resources.",
+        "Fulfilling the mandate of Aparigraha (non-possession) completely.",
+        "Walking the ‘path of ethical development’ by holding excess property as a trust for the underprivileged.",
+        "Mobilising capital for the creation of self-sufficient village industries."
       ],
       correct: 2
     },
     {
-      question: "Which of the following is the incorrect statement regarding Mahatma Gandhi’s vision for future India?",
+      question: "From the following statements, choose the one that is not correct regarding Mahatma Gandhi’s vision for future India.",
       options: [
-        "Envisioned India as a spiritually enlightened society",
-        "Self-purification leads to spiritual emancipation",
-        "It will be an egalitarian society",
-        "Centralized polity with modern technologies is a prerequisite"
+        "Mahatma Gandhi envisioned India as a spiritually enlightened society.",
+        "Mahatma Gandhi argued that self-purification could bring spiritual emancipation and lead to a spiritually enlightened society.",
+        "In the vision of Mahatma Gandhi, a spiritually enlightened society will be an egalitarian society.",
+        "Mahatma Gandhi held that a centralised polity with modern technologies is a prerequisite for the existence of a spiritually enlightened society."
       ],
       correct: 3
     },
     {
-      question: "Gandhi rejected the utilitarian formula of ‘greatest good of the greatest number’ because Sarvodaya sought:",
+      question: "Gandhi rejected the utilitarian formula of ‘greatest good of the greatest number’ because his principle of Sarvodaya fundamentally sought:",
       options: [
-        "Focus on moral purity",
-        "Spiritual liberation",
-        "To strive for the 'greatest good of all' (Sarvodaya)",
-        "Prioritize Swaraj"
+        "The moral purity of the action rather than the consequence.",
+        "The spiritual liberation of every individual, irrespective of their material condition.",
+        "To strive for the 'greatest good of all' and not accept the sacrifice of a minority for the majority.",
+        "To prioritize individual Swaraj (self-rule) over collective economic welfare."
       ],
       correct: 2
     },
     {
-      question: "The supreme merit of passive resistance, in Gandhi's view, is that:",
+      question: "In defining ‘passive resistance’, Gandhi contrasts it with 'brute force'. The supreme merit of passive resistance, in his view, is that:",
       options: [
-        "It produces results without bloodshed",
-        "It shows civilizational superiority",
-        "It blesses the one who uses it and punishes others",
-        "It requires the sacrifice of others for common good"
+        "It is a political tool that produces far-reaching results without drawing a drop of blood.",
+        "It is a method adopted by the spiritually superior Indian civilisation against the violent Europeans.",
+        "It blesses the one who uses it but punishes the one against whom it is used.",
+        "It requires the sacrifice of others for the common good."
       ],
       correct: 0
     }
   ],
   week6: [
     {
-      question: "Iqbal’s political ideology tension:",
+      question: "Muhammad Iqbal's political ideology, which became the basis for the formation of a separate state of Pakistan, is best characterized by which of the following internal tensions?",
       options: [
-        "Islamic universalism vs territorial nationalism",
-        "Sufi vs Nietzsche",
-        "Reject Sir Sayyid",
-        "Abandon pan-Islamism"
+        "The reconciliation of Islamic universalism with modern territorial nationalism",
+        "The synthesis of Sufi quietism with Nietzschean 'Will to Power'",
+        "The rejection of Sir Sayyid Ahmad Khan's educational foundation while upholding his political vision",
+        "The complete abandonment of pan-Islamism in favor of an 'Islamic India'"
       ],
       correct: 0
     },
     {
-      question: "What was ‘Islam’ for Iqbal?",
+      question: "What was 'Islam' for Muhammad Iqbal?",
       options: [
-        "Philosophy of life",
-        "Way of living",
-        "Cultural and legal system",
-        "All of these"
+        "For Iqbal, Islam was a philosophy of life.",
+        "For Iqbal, Islam was a way of living.",
+        "For Iqbal, Islam was the embodiment of certain historical and cultural traditions and social and legal institutions.",
+        "All of these."
       ],
       correct: 3
     },
     {
-      question: "Post-1857 intellectual trend:",
+      question: "Iqbal's productive period (post-1857) coincided with a dualistic trend among Indian intellectuals, characterized by:",
       options: [
-        "Economic liberal + social conservative",
-        "Anti-colonial equality + religious conservatism",
-        "Reject West",
-        "Pro-British + socialism"
+        "Economic liberalization and social conservatism.",
+        "Patriotic anti-colonialism/urge for social equality and conservatism/religious worldview prevalence.",
+        "Complete rejection of Western thought and a return to traditional practices.",
+        "Simultaneous Pro-British loyalty and radical socialist movements."
       ],
       correct: 1
     },
     {
-      question: "Read the following two statements and choose the correct option:\n\nStatement I: Muhammad Iqbal tried to find a spiritual expression of anticolonialism in religion.\nStatement II: Through religion, Iqbal searched for an alternate development path distinct from the West.",
+      question: "Read the following two statements and choose the correct option from below Statement I- Muhammad Iqbal tried to find a spiritual expression of anticolonialism in religion. Statement II- Through religion, Iqbal searched for an alternate path of development distinct from the West.",
       options: [
-        "Only I",
-        "Only II",
-        "Both Statements I & II are correct",
-        "Neither"
+        "Only Statement-I is correct.",
+        "Only Statement II is correct.",
+        "Both Statements -I &II are correct.",
+        "Neither Statement-I nor Statement II is correct."
       ],
       correct: 2
     },
     {
-      question: "Early political stance of Iqbal:",
+      question: "Iqbal's early political stance, evident in poems such as 'Khuftagan-i-Khak', ‘Istafar and Taswir-i-Dard', was characterized by",
       options: [
-        "Muslim isolation",
-        "National unity and liberation",
-        "Critique of Congress",
-        "Provincial autonomy"
+        "A strong call for the isolation of Muslims from all-Indian movements.",
+        "A passionate advocacy for national unity and liberation.",
+        "A critique of the growing secular outlook of the Indian National Congress.",
+        "An immediate focus on achieving provincial autonomy for 'Islamic India'."
       ],
       correct: 1
     },
     {
-      question: "‘Inner cohesion’ of Millat:",
+      question: "For Iqbal, the 'inner cohesion' of the ideal Islamic community (Millat) consists not in ethnic or geographic unity, but primarily in the: ",
       options: [
-        "Language/tradition",
-        "Religious-political unity & like-mindedness",
-        "Uniform law dominance",
-        "Historical differences"
+        "Unity of social traditions and language.",
+        "Unity of the religious and political ideal, or in the psychological fact of ‘like-mindedness’.",
+        "Dominance of a single, uniform Islamic law over all races.",
+        "Historical differences in nationality."
       ],
       correct: 1
     },
     {
-      question: "Meaning of submission to God for Iqbal:",
+      question: "When Iqbal stresses 'man's submission to God’, he clarifies that this does not imply fanaticism or helplessness. Instead, it means:",
       options: [
-        "Intellectual focus",
-        "Renouncing ego and following ethics",
-        "Destroy self",
-        "Accept world order"
+        "Focusing solely on the intellectual cognition of God.",
+        "The renunciation of egoistic desires and inclinations and following the ethical principles of Islam.",
+        "The complete destruction of the individual self.",
+        "Unconditional acceptance of the given world order."
       ],
       correct: 1
     },
     {
-      question: "Khudi vs Millat resolution:",
+      question: "Iqbal resolve the potential conflict between the development of 'Khudi' and the demands of 'Millat'?",
       options: [
-        "Prioritize individual",
-        "Destroy self into Millat",
-        "Balance individual and community (Bekhudi)",
-        "Reject Western self"
+        "By prioritising the individual Khudi entirely over the collective interests of the Millat.",
+        "By defining the ideal Khudi as one that achieves perfection only through its destruction (Fana) into the Millat.",
+        "By asserting that the individual ego must be counterbalanced and aligned with the social/community ego, termed Bekhudi.",
+        "By rejecting the Western notion of the individual self in favor of pure Pan-Islamism."
       ],
       correct: 2
     },
     {
-      question: "Ideal Muslim community requires:",
+      question: "According to Iqbal, what are the essential components of an ideal Muslim community?",
       options: [
-        "Only homogeneity",
-        "Only unity",
-        "Neither",
-        "Both unity and homogeneity"
+        "Only Homogeneity",
+        "Only Unity",
+        "Neither unity nor homogeneity",
+        "Both the unity and homogeneity."
       ],
       correct: 3
     },
     {
-      question: "Rejection of nationalism due to:",
+      question: "Iqbal's rejection of the ideology of nationalism and the modern nation-state structure, similar to Gandhi and Tagore, was based on the argument that:",
       options: [
-        "Against unity of man",
-        "Western ideas perpetuate colonialism",
-        "Against religion",
-        "Removes differences"
+        "Nationalism is inherently incompatible with the unity of man.",
+        "The mere transplantation of Western political ideas would only serve to perpetuate colonial domination.",
+        "Western concepts are fundamentally opposed to all forms of religious faith.",
+        "The nation-state structure would lead to the disappearance of religious differences."
       ],
       correct: 1
     }
