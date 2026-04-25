@@ -309,102 +309,102 @@ export const quizData: QuizData = {
   ],
   week4: [
     {
-      question: "Vivekananda emphasized \"fresh interpretation of tradition\". Why?",
+      question: "Vivekananda emphasized the need for \"fresh interpretation of tradition\". What was the primary justification for this emphasis?",
       options: [
-        "Align with Western elite",
-        "Continue rituals",
-        "Face new world with new social and political needs",
-        "Establish Advaita supremacy"
+        "To align tradition with the needs of the emerging Westernized elite.",
+        "To ensure the continuity of ritualistic practices in a changing world.",
+        "To face the new world with new social and political requirements.",
+        "To establish the supremacy of Advaita Vedanta over all other religious philosophies."
       ],
       correct: 2
     },
     {
-      question: "Vivekananda’s view on democracy:",
+      question: "Which of the following statements represents Vivekananda's thoughts on democracy?",
       options: [
-        "Direct rule",
-        "Anarchy",
-        "Only indirect representation",
-        "Process of faith, self-reliance, and self-government"
+        "For Vivekananda, democracy was equal to any form of direct rule.",
+        "For Vivekananda, democracy was a mode of anarchy.",
+        "By democracy, Vivekananda only referred to the indirect forms of representation.",
+        "Vivekananda understood democracy as a process that inculcates faith, self-reliance, and self-government."
       ],
       correct: 3
     },
     {
-      question: "Influence of his parents led to:",
+      question: "Vivekananda's thinking was shaped by the contrasting influences of his parents: his father's rational mind and his mother's religious temperament. The synthesis of these traits arguably led to",
       options: [
-        "Pure mysticism",
-        "Blend of rational inquiry and spiritual ideals",
-        "Rejection of Western philosophy",
-        "Joining Brahmo Samaj"
+        "His exclusive focus on Advaita Vedanta as a purely mystical philosophy.",
+        "His blend of rational, pragmatic inquiry (science) with spiritual ideals (non-attachment) in his youth.",
+        "His early rejection of Western philosophy entirely.",
+        "His decision to join the Sadharan Brahmo Samaj and reject Freemasonry."
       ],
       correct: 1
     },
     {
-      question: "Read the following statements and choose the correct option:\n\nStatement-I: Vivekananda believed in the Varnashrama system.\nStatement-II: Vivekananda criticised the Brahmanical practice of excluding the Shudras from accessing Vedic knowledge.",
+      question: "Read the following two statements and choose the correct option from below-\nStatement-I: Vivekananda believed in the Varnashrama system.\nStatement-II: Vivekananda criticised the Brahmanical practice of excluding the Shudras from accessing Vedic knowledge.",
       options: [
-        "Only Statement I is correct",
-        "Only Statement II is correct",
-        "Both Statements I and II are correct",
-        "Neither Statement I nor II is correct"
+        "Only Statement I is correct.",
+        "Only Statement II is correct.",
+        "Both Statements I and II are correct.",
+        "Neither Statement I nor II is correct."
       ],
       correct: 2
     },
     {
-      question: "The famous quote from his address at the Parliament of Religions—\n\n\"As the different streams...all mingle their water in the sea, so, O lord the different paths...all lead to thee\"—is a powerful assertion of:",
+      question: "The famous quote from his address at the Parliament of Religions—\"As the different streams...all mingle their water in the sea, so, O lord the different paths...all lead to thee\"—is a powerful assertion of:",
       options: [
-        "Hindu superiority",
-        "Convert to Christianity",
-        "Universal tolerance and non-exclusivity",
-        "Reject all religion"
+        "The inherent superiority of Hinduism as the ultimate religious path.",
+        "The requirement for all religious people to ultimately convert to Christianity.",
+        "The principle of universal religious tolerance and the non-exclusivity of truth.",
+        "The need to reject all doctrines and dogmas of organized religion."
       ],
       correct: 2
     },
     {
-      question: "Vivekananda on politics and religion:",
+      question: "Which of the following statements accurately captures Vivekananda's views on politics and religion?",
       options: [
-        "Separate domains",
-        "Inseparable",
-        "Religion = politics",
-        "Politics depends on religion"
+        "Politics and religion are two different domains.",
+        "Politics and religion are inseparable.",
+        "Religion is only a manifestation of politics.",
+        "Politics is dependent on religion."
       ],
       correct: 0
     },
     {
-      question: "Vivekananda's simplified presentation of Advaita Vedanta emphasizes:",
+      question: "Vivekananda's simplified presentation of Advaita Vedanta emphasised that the supreme truth that should guide human actions and thoughts is based on the principles of:",
       options: [
-        "Separation of soul and Brahman",
-        "Acceptance of inequality",
-        "Divinity of soul and unity of mankind",
-        "Ritual supremacy"
+        "The inherent separateness between the soul and Brahman.",
+        "The rigid acceptance of existing social privileges and inequality.",
+        "The divinity of the soul and the solidarity of mankind.",
+        "The supremacy of ritualistic practice over philosophical knowledge."
       ],
       correct: 2
     },
     {
-      question: "In context of his reading of Vedanta, Vivekananda challenged social stratification by arguing:",
+      question: "In the context of his reading of Vedanta, Vivekananda challenged social stratification by arguing:",
       options: [
-        "Inequality is natural",
-        "No one is born superior",
-        "Privileges must remain",
-        "Inequality is God’s will"
+        "Inequalities are endemic to individuals or institutions.",
+        "The idea that one man is born superior to another has no meaning in Vedanta.",
+        "Social privileges must be strictly maintained for spiritual order.",
+        "Inequalities are a reflection of God's will and must be accepted."
       ],
       correct: 1
     },
     {
-      question: "Ninian Smart’s observation refers to Vivekananda's interpretation of Hinduism as:",
+      question: "Ninian Smart's observation that Vivekananda not only interpreted Hinduism to the West but \"he also interpreted it to India itself\" refers to his construction of a Hinduism that was:",
       options: [
-        "Localized cult",
-        "Colonial interpretation",
-        "Rational, structured, non-emotive",
-        "Accepting flawed India"
+        "Purely localized, emotional, and sectarian cult.",
+        "Entirely dependent on the colonial master's interpretation.",
+        "Rational, linear, non-emotive and masculine, detaching it from disorder, chaos, pain, pleasure, and emotions.",
+        "Content with and appreciative of the India of his contemporary times, despite its flaws."
       ],
       correct: 2
     },
     {
-      question: "Which of the following was NOT among the three ways of tackling the existing social concerns in India, according to Vivekananda?",
+      question: "In the view of Vivekananda, which of the following was not among the three ways of tackling the existing social concerns in India?",
       options: [
-        "Women emancipation",
-        "Positive education",
-        "Cultural assimilation",
-        "Upliftment of masses"
+        "Emancipation of Women",
+        "Positive Education",
+        "Cultural Assimilation",
+        "Upliftment of the Masses"
       ],
       correct: 2
     }
